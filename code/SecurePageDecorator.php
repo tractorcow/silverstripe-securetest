@@ -6,7 +6,7 @@
  * @author Damo
  * @see SiteTree::canView()
  */
-class SecurePageDecorator extends SiteTreeDecorator
+class SecurePageDecorator extends SiteTreeExtension
 {   
     /**
      * Determines if this page may be viewed.
