@@ -1,0 +1,16 @@
+{
+    "name": "tractorcow/securetest",
+    "description": "Silverstripe module to prevent unauthorised access to testing environments",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "lesscss"],
+    "authors": [
+        {
+            "name": "Damian Mooyman",
+            "email": "damian.mooyman@gmail.com"
+        }
+    ],
+    "require": {
+	"silverstripe/framework": "3.*",
+	"composer/installers": "*"
+    }
+}
