@@ -1,0 +1,6 @@
+---
+name: 'securetestextensions'
+---
+Page:
+  extensions:
+    - 'SecurePageDecorator'
