@@ -1,22 +1,22 @@
 {
-    "name": "tractorcow/silverstripe-securetest",
-    "description": "Silverstripe module to prevent unauthorised access to testing environments",
-    "type": "silverstripe-module",
-    "keywords": ["silverstripe", "security", "testing"],
-    "authors": [
-        {
-            "name": "Damian Mooyman",
-            "email": "damian.mooyman@gmail.com"
-        }
-    ],
-    "support": {
-        "issues": "http://github.com/tractorcow/silverstripe-securetest/issues"
-    },
-    "require": {
-	"silverstripe/framework": "3.*",
-	"composer/installers": "*"
-    },
-    "extra": {
-        "installer-name": "securetest"
-    }
+	"name": "tractorcow/silverstripe-securetest",
+	"description": "Silverstripe module to prevent unauthorised access to testing environments",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "security", "testing"],
+	"authors": [
+		{
+			"name": "Damian Mooyman",
+			"email": "damian.mooyman@gmail.com"
+		}
+	],
+	"support": {
+		"issues": "http://github.com/tractorcow/silverstripe-securetest/issues"
+	},
+	"require": {
+		"silverstripe/framework": "3.*",
+		"composer/installers": "*"
+	},
+	"extra": {
+		"installer-name": "securetest"
+	}
 }
